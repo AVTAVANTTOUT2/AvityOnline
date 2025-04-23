@@ -1,5 +1,5 @@
 <?php
-$host = '';
+$host = 'sql303.infinityfree.com';
 $dbname = 'if0_38815801_avityonline';
 $username = 'if0_38815801';
 $password = 'Elias19771977';
