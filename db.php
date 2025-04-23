@@ -1,8 +1,8 @@
 <?php
-$host = 'localhost';
-$dbname = 'avity';
-$username = 'root';
-$password = '';
+$host = '';
+$dbname = 'if0_38815801_avityonline';
+$username = 'if0_38815801';
+$password = 'Elias19771977';
 
 try {
   $pdo = new PDO("mysql:host=$host;dbname=$dbname;charset=utf8", $username, $password);
